@@ -1,0 +1,63 @@
+<SOLUTION>
+<HEADER FRQ="ITERATION">
+ <COLUMN ID="    1">Contact Pair ID</COLUMN>
+ <COLUMN ID="    2">Number of Contact Elements in Contact</COLUMN>
+ <COLUMN ID="    3">Number of Contact Elements in Contact (Sticking)</COLUMN>
+ <COLUMN ID="    4">Max. Chattering Level</COLUMN>
+ <COLUMN ID="    5">Max. Penetration/Min. Gap</COLUMN>
+ <COLUMN ID="    6">Max. Geometric Gap</COLUMN>
+ <COLUMN ID="    7">Max. Normal Stiffness</COLUMN>
+ <COLUMN ID="    8">Min. Normal Stiffness</COLUMN>
+ <COLUMN ID="    9">Max. Resulting Pinball</COLUMN>
+ <COLUMN ID="   10">Max. Elastic Slip Distance</COLUMN>
+ <COLUMN ID="   11">Max. Tangential Stiffness</COLUMN>
+ <COLUMN ID="   12">Min. Tangential Stiffness</COLUMN>
+ <COLUMN ID="   13">Max. Sliding Distance of Entire Solution</COLUMN>
+ <COLUMN ID="   14">Max. Contact Pressure</COLUMN>
+ <COLUMN ID="   15">Max. Friction Stress</COLUMN>
+ <COLUMN ID="   16">Average Contact Depth</COLUMN>
+ <COLUMN ID="   17">Max. Geometric Penetration</COLUMN>
+ <COLUMN ID="   18">Number of Contact Points Have Too Much Penetration</COLUMN>
+ <COLUMN ID="   19">Contacting Area</COLUMN>
+ <COLUMN ID="   20">Max. Contact Damping Pressure</COLUMN>
+ <COLUMN ID="   21">Max. Contact Damping Tangential stress</COLUMN>
+ <COLUMN ID="   22">Max. Sliding Distance including near field</COLUMN>
+ <COLUMN ID="   23">Min. Sliding Distance including near field</COLUMN>
+ <COLUMN ID="   24">Max. normal fluid penetration pressure on contact surface</COLUMN>
+ <COLUMN ID="   25">Max. normal fluid penetration pressure on target surface</COLUMN>
+ <COLUMN ID="   26">Total volume loss due to wear on contact surface</COLUMN>
+ <COLUMN ID="   27">Total strain energy due to contact</COLUMN>
+ <COLUMN ID="   28">Frictional dissipation energy</COLUMN>
+ <COLUMN ID="   29">Contact damping dissipation energy</COLUMN>
+ <COLUMN ID="   30">WB contact pair ID</COLUMN>
+ <COLUMN ID="   31">Total contact force due to pressure -x component</COLUMN>
+ <COLUMN ID="   32">Total contact force due to pressure -y component</COLUMN>
+ <COLUMN ID="   33">Total contact force due to pressure -z component</COLUMN>
+ <COLUMN ID="   34">Total contact force due to tangential stress -x component</COLUMN>
+ <COLUMN ID="   35">Total contact force due to tangential stress -y component</COLUMN>
+ <COLUMN ID="   36">Total contact force due to tangential stress -z component</COLUMN>
+ <COLUMN ID="   37">Number of Contact Points Have Too Much sliding</COLUMN>
+ <COLUMN ID="   38">Contact pair force convergence norm</COLUMN>
+ <COLUMN ID="   39">Contact pair force criterion</COLUMN>
+ <COLUMN ID="   40">Max. tangential fluid penetration pressure on contact surface</COLUMN>
+ <COLUMN ID="   41">Max. tangential fluid penetration pressure on target surface</COLUMN>
+ <COLUMN ID="   42">Max. sliding distance of current substep for closed contact</COLUMN>
+ <UNITS>MPA</UNITS>
+</HEADER>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="        0" TIME="    0.000000    ">
+        4         0         0         0    0.8881784E-15   -0.1776357E-14    0.1568571E+08    0.1568571E+08    0.6375231         0.000000         3529284.         3529284.         0.000000         0.000000         0.000000         2.550092       -0.1776357E-14         0     48.99157         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000            38     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000             0    0.000000         0.000000         0.000000         0.000000         0.000000    
+        5        -2         0         0     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         1.434539         0.000000             0     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000            38     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000             0    0.000000         0.000000         0.000000         0.000000         0.000000    
+        6         0         0         0    0.6310887E-29   -0.7105427E-14    0.1246246E+08    0.1246246E+08    0.3731334         0.000000         2804054.         2804054.         0.000000         0.000000         0.000000         1.492534       -0.3552714E-14         0     97.98315         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000            41     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000             0    0.000000         0.000000         0.000000         0.000000         0.000000    
+        7        -2         0         0     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         3.209638         0.000000             0     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000            41     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000             0    0.000000         0.000000         0.000000         0.000000         0.000000    
+        8         0         0         0    0.2034859E-28   -0.3552714E-14     9895651.         9895651.        0.7220643         0.000000         3485196.         3485196.         0.000000         0.000000         0.000000         2.888257       -0.3552714E-14         0     217.9399         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000            56     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000             0    0.000000         0.000000         0.000000         0.000000         0.000000    
+        9        -2         0         0     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         4.042180         0.000000             0     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000            56     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000             0    0.000000         0.000000         0.000000         0.000000         0.000000    
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="        0" TIME="   0.1000000E-01">
+        4         0         0         0    0.8881784E-15   -0.1776357E-14    0.1568571E+08    0.1568571E+08    0.6375231         0.000000         3529284.         3529284.         0.000000         0.000000         0.000000         2.550092       -0.1776357E-14         0     48.99157         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000            38     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000             0    0.000000         0.000000         0.000000         0.000000         0.000000    
+        5        -2         0         0     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         1.434539         0.000000             0     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000            38     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000             0    0.000000         0.000000         0.000000         0.000000         0.000000    
+        6         0         0         0    0.6310887E-29   -0.7105427E-14    0.1246246E+08    0.1246246E+08    0.3731334         0.000000         2804054.         2804054.         0.000000         0.000000         0.000000         1.492534       -0.3552714E-14         0     97.98315         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000            41     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000             0    0.000000         0.000000         0.000000         0.000000         0.000000    
+        7        -2         0         0     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         3.209638         0.000000             0     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000            41     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000             0    0.000000         0.000000         0.000000         0.000000         0.000000    
+        8         0         0         0    0.2034859E-28   -0.3552714E-14     9895651.         9895651.        0.7220643         0.000000         3485196.         3485196.         0.000000         0.000000         0.000000         2.888257       -0.3552714E-14         0     217.9399         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000            56     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000             0    0.000000         0.000000         0.000000         0.000000         0.000000    
+        9        -2         0         0     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         4.042180         0.000000             0     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000            56     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000             0    0.000000         0.000000         0.000000         0.000000         0.000000    
+</COLDATA>
+</SOLUTION>
